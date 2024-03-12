@@ -14,12 +14,11 @@ Meus sonhos são: desenvolver aplicações que atinjam várias pessoas e também
 ## Onde me encontrar 📫
 <div>
   <a href="https://www.linkedin.com/in/luis-fernando-092610221/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:luisfr364@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a>
+  <a href="https://discordapp.com/users/509478567919484971">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
